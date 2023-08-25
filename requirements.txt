@@ -1,0 +1,6 @@
+fire
+openai
+iterm2
+yaml
+langchain
+loguru
